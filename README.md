@@ -109,8 +109,6 @@ Full source: [`code_a17.ino`](code_a17.ino)
 
 ## What Went Wrong
 
-Full breakdown in [`issues_a17.pdf`](issues_a17.pdf). Short version:
-
 **CNC Shield V4 — manufacturing defect (critical)**  
 Clone shield had incorrect copper trace mapping — cross-wired STEP and DIRECTION registers, bypassed current-limiting resistors. First 12V power-up instantly fried multiple A4988 drivers and destroyed the primary Arduino Nano.  
 → Scrapped the shield entirely. Rebuilt on a heavy-duty prototyping breadboard with point-to-point jumper wiring.
