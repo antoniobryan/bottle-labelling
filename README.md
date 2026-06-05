@@ -47,7 +47,7 @@ Both motors step simultaneously through the same loop in firmware — perfectly 
 | Power Supply | 12V DC 5A Switching Adapter | 1 |
 | Bearings | 608zz Ball Bearings | bulk |
 | 3D Print Material | 1.75mm PLA Filament | 0.5 kg |
-| Fasteners | M3/M4 Screws, T-Nuts | bulk |
+| Fasteners | M3/M4 and M5 Screws, T-Nuts | bulk |
 
 **Total build cost: under ₹10,000**
 
